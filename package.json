@@ -1,0 +1,30 @@
+{
+  "name": "mtg",
+  "version": "0.0.1",
+  "description": "an svg card table",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Peregrine42/mtg.git"
+  },
+  "keywords": [
+    "svg",
+    "mithril"
+  ],
+  "author": "Duncan Fermor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Peregrine42/mtg/issues"
+  },
+  "homepage": "https://github.com/Peregrine42/mtg#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.21",
+    "karma-jasmine": "^0.3.7",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.4"
+  }
+}
